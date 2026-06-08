@@ -65,7 +65,7 @@ Specter checks for updates automatically on launch. You'll be notified when a ne
 
 ## Support
 
-For issues or feature requests, contact [chaithanyareddy786@gmail.com](mailto:chaithanyareddy@tattvamind.com)
+For issues or feature requests, contact [chaithanyareddy@tattvamind.com](mailto:chaithanyareddy@tattvamind.com)
 
 ---
 
