@@ -19,6 +19,42 @@ Go to the [Releases](../../releases) page and download the latest version for yo
 | Linux | `Specter-x.x.x.AppImage` |
 
 ---
+## Install
+
+### macOS
+
+1. Open the `.dmg` and drag **Specter** to your Applications folder.
+2. On first launch macOS may show a **"damaged app"** warning — this is Gatekeeper blocking unsigned apps, not an actual problem.
+3. Run this once in Terminal to fix it:
+```
+xattr -cr "/Applications/Specter.app"
+```
+4. Open the app normally.
+
+> **Alternative:** Go to **System Settings → Privacy & Security** and click **Open Anyway**.
+
+---
+
+### Windows
+
+1. Run `Specter-Setup-x.x.x.exe`.
+2. If Windows SmartScreen shows a warning, click **More info → Run anyway**.
+3. Follow the installer steps.
+
+---
+
+### Linux
+
+1. Make the file executable:
+```
+chmod +x Specter-x.x.x.AppImage
+```
+2. Run it:
+```
+./Specter-x.x.x.AppImage
+```
+
+---
 
 ## Key Features
 
